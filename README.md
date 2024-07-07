@@ -1016,7 +1016,7 @@ echo $greet( "Student" );
 ```
 
 3. [Anonymous function declaration](https://www.php.net/manual/en/functions.anonymous.php)
-  - finction without name
+  - function without name
 ```
 $greet = function ($name) {return "Hello ".$name."!";}
 echo $greet("Student");
